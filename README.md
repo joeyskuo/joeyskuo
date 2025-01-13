@@ -1,6 +1,3 @@
-### About Me
-I am an experienced Frontend Developer who enjoys working in a high-impact role involving opportunities to build on the frontend, backend, and infrastructure of a product. Currently, I am working on a AI web application built with React, Node, Redis, and deployed on AWS. 
-
 <div>
 
 ### Languages
